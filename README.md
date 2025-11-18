@@ -12,12 +12,6 @@ NoSQLNoProblem is a natural language interface to your SQL databases powered by 
 - Provides only answers no SQL code exposure
 - Error handling and feedback for conversational flow
 
-## Installation
-
-1. Clone the repo
-2. install lib
-
-
 Type your question about the database and receive a human readable answer no SQL exposure.
 
 ## Example Questions
@@ -37,7 +31,4 @@ Type your question about the database and receive a human readable answer no SQL
 
 Feel free to open issues or submit PRs to improve conversational flow or add support for new database types.
 
-## License
-
-MIT License
 
